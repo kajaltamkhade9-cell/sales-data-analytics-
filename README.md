@@ -66,3 +66,9 @@ SELECT product,
 FROM sales
 GROUP BY product
 ORDER BY total_sales DESC;
+
+## 📁 Project Files
+
+- `Sales_Data_Analytics_Dashboard.xlsx` – Excel dataset, Pivot Tables, charts, and dashboard
+- `sales_analysis.sql` – MySQL queries used for sales analysis
+- `README.md` – Project documentation
