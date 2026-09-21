@@ -72,3 +72,12 @@ ORDER BY total_sales DESC;
 - `Sales_Data_Analytics_Dashboard.xlsx` – Excel dataset, Pivot Tables, charts, and dashboard
 - `sales_analysis.sql` – MySQL queries used for sales analysis
 - `README.md` – Project documentation
+
+## 📊 Business Insights
+
+- Total Sales: ₹1,90,000
+- Total Quantity Sold: 16 units
+- Best-Selling Product: Laptop
+- Top Sales City: Ahmedabad
+- Electronics generated higher sales than Accessories.
+- Product-wise and city-wise analysis helps identify sales performance patterns.
