@@ -81,3 +81,18 @@ ORDER BY total_sales DESC;
 - Top Sales City: Ahmedabad
 - Electronics generated higher sales than Accessories.
 - Product-wise and city-wise analysis helps identify sales performance patterns.
+
+## 🎯 Skills Demonstrated
+
+- Microsoft Excel
+- Data Cleaning
+- Pivot Tables
+- Data Visualization
+- MySQL
+- SQL Queries
+- Data Analysis
+- Business Insights
+
+## 🚀 Key Learning
+
+This project helped me understand how to clean, analyze, visualize, and query sales data using Excel and MySQL, and convert data into meaningful business insights.
